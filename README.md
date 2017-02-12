@@ -1,24 +1,5 @@
-# README
+# Super simple backend
+## ...so I can hit it from mobile apps
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Users and notes. No authentication of any type. Yolo.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
